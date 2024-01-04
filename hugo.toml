@@ -106,7 +106,7 @@ DisqusShortname = "example"
     author = "author"
 
 [params.views]
-    enable = true  # visitor badge from https://visitor-badge.glitch.me/
+    enable = false  # visitor badge from https://visitor-badge.glitch.me/
 
 ## DONE - Menu
 ## DONE - slider 

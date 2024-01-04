@@ -1,0 +1,70 @@
+[articles]
+    read_more = "Leer más"
+    words = "palabras"
+    readingtime = "minutos"
+    share = "Comparte esto:"
+    comments = "Comentarios"
+
+# Linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+    older = "←"
+    newer = "→"
+
+[search]
+    placeholder = "Buscar"
+
+[pagination]
+    previous = "Siguiente"
+    next = "Previo"
+
+[profile]
+    follow_button = "Me gusta"
+    tags = "Etiquetas"
+    posts = "Posts"
+
+[page_not_found]
+    title = "Página no encontrada"
+    subtitle = "El contenido que estas buscando no existe"
+
+[social]
+    facebook = "Siguenos en Facebook"
+    twitter = "Siguenos en Twitter"
+    RSS = "Subscribe to our feed"
+    googleplus = "Siguenos en Google Plus"
+    pinterest = "Siguenos en Pinterest"
+    linkedin = "Siguenos en LinkedIn"
+    tumblr = "Siguenos en Tumblr"
+    vimeo = "Siguenos en Vimeo"
+    instagram = "Siguenos en Instagram"
+    flickr = "Siguenos en Flickr"
+    youtube = "Siguenos en YouTube"
+    github = "Siguenos en GitHub"
+    email = "Escribenos"
+
+[share]
+	facebook = "Compartir"
+	twitter = "Tweet"
+	googleplus = "+1"
+	linkedin = "Compartir"
+	email = "Email"
+	emailmessage = "Hola, me gustaría compartir este artículo contigo"
+	
+[widgets.categories]
+    title = "Categorias"
+
+[widgets.recent_articles]
+    title = "Articulos recientes"
+
+[widgets.tag_cloud]
+    title = "Tag cloud"
+    min_count = 2  # If you have many posts, then tag with just one topic makes the tag cloud cluttered. This variable can help reduce the clutter.
+
+[widgets.mailchimp]
+    title = "Suscribirse por email"
+    subscribe_text = "Enter your email address to subscribe to this blog and receive notifications of new posts by email."
+
+[widgets.tags]
+    title = "Etiquetas"
+
+[authors]
+    Title = "Autores"

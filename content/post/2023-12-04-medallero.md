@@ -4,7 +4,7 @@ date = "2023-12-04T00:00:00+00:00"
 author = "youching"
 categories = ["general"]
 banner = "medallas/medallas.jpeg"
-slider = false
+slider = true
 +++
 
 # Medallero del equipo You Ch’ing en el Campeonato Nacional

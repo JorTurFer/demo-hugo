@@ -2,7 +2,7 @@
 title = "Medallero del equipo You Ch’ing en el Campeonato Nacional"
 date = "2023-12-04T00:00:00+00:00"
 author = "youching"
-categories = ["general"]
+categories = ["general", "wushu", "taiji"]
 banner = "medallas/medallas.jpeg"
 slider = true
 +++
